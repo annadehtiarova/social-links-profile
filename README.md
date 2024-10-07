@@ -20,10 +20,11 @@ My challenge was to build out the Social links profile component and get it look
 I was provided with a Figma file.
 <br>
 <br>
-<img width="1676" alt="Screenshot 2024-10-07 at 14 28 09" src="https://github.com/user-attachments/assets/c47bc236-f338-4d70-8fb4-668e9578c08a">
+<img width="1126" alt="Screenshot 2024-10-07 at 20 19 16" src="https://github.com/user-attachments/assets/87873100-cce5-4436-9e57-de2c712add60">
 <br>
 <br>
-<img width="1680" alt="Screenshot 2024-10-07 at 14 28 50" src="https://github.com/user-attachments/assets/d967b8e9-baad-4f6d-89c6-e9d270be10bf">
+<img width="1105" alt="Screenshot 2024-10-07 at 20 19 48" src="https://github.com/user-attachments/assets/6f8f62de-d215-4127-8d10-28a5c7757a1f">
+
 
 ### Built with
 
