@@ -14,7 +14,7 @@ This is [my solution](https://annadehtiarova.github.io/social-links-profile) to 
 My challenge was to build out the Social links profile component and get it looking as close to the design as possible.
 <br>
 <br>
-<img width="1701" alt="Screenshot 2024-10-07 at 14 26 30" src="https://github.com/user-attachments/assets/0c1f4bd2-529a-4134-b65f-ba999ef98a05">
+<img width="1692" alt="Screenshot 2024-10-07 at 14 31 24" src="https://github.com/user-attachments/assets/e8421aeb-f5b5-4472-b8c3-93c92181d909">
 <br>
 <br>
 I was provided with a Figma file.
