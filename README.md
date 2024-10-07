@@ -32,7 +32,7 @@ I was provided with a Figma file.
 - Flexbox
 
 ### Links
-- Solution URL: [blog-preview-card](https://annadehtiarova.github.io/social-links-profile/)
+- Solution URL: [social-links-profile](https://annadehtiarova.github.io/social-links-profile/)
 
 ## Author
 I am a UX/UI Designer who likes to code.
